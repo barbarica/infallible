@@ -6,7 +6,7 @@
 ["4-applications.html", "Chapter 4 Applications", " Chapter 4 Applications Some significant applications are demonstrated in this chapter. "],
 ["4-1-example-one.html", "4.1 Example one", " 4.1 Example one "],
 ["4-2-example-two.html", "4.2 Example two", " 4.2 Example two "],
-["4-3-example-three.html", "4.3 Example three", " 4.3 Example three 4.3.1 Example three-one 4.3.1.1 Example three-one-one "],
+["4-3-example-three.html", "4.3 Example three", " 4.3 Example three 4.3.1 Example three-one 4.3.1.1 Example three-one-one import numpy as np print(&quot;Hello Python!&quot;) ## Hello Python! a = np.array([1,2]) b = np.array([1,2]) print(a+b) ## [2 4] "],
 ["5-final-words.html", "Chapter 5 Final Words", " Chapter 5 Final Words We have finished a nice book. "],
 ["references.html", "References", " References "]
 ]

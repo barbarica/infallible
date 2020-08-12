@@ -5,3 +5,11 @@
 
 
 #### Example three-one-one
+
+```{python}
+import numpy as np
+print("Hello Python!")
+a = np.array([1,2])
+b = np.array([1,2])
+print(a+b)
+```
